@@ -1,0 +1,5 @@
+org/sdnhub/odl/learningswitch/northbound/AppNorthbound.class
+org/sdnhub/odl/learningswitch/web/AppWeb.class
+org/sdnhub/odl/learningswitch/internal/Activator.class
+org/sdnhub/odl/learningswitch/ILearningSwitch.class
+org/sdnhub/odl/learningswitch/internal/LearningSwitch.class

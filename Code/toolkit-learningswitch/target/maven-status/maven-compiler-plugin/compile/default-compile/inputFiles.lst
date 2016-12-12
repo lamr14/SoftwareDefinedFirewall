@@ -1,0 +1,5 @@
+/home/ubuntu/toolkit/toolkit-learningswitch/src/main/java/org/sdnhub/odl/learningswitch/web/AppWeb.java
+/home/ubuntu/toolkit/toolkit-learningswitch/src/main/java/org/sdnhub/odl/learningswitch/internal/Activator.java
+/home/ubuntu/toolkit/toolkit-learningswitch/src/main/java/org/sdnhub/odl/learningswitch/northbound/AppNorthbound.java
+/home/ubuntu/toolkit/toolkit-learningswitch/src/main/java/org/sdnhub/odl/learningswitch/internal/LearningSwitch.java
+/home/ubuntu/toolkit/toolkit-learningswitch/src/main/java/org/sdnhub/odl/learningswitch/ILearningSwitch.java
